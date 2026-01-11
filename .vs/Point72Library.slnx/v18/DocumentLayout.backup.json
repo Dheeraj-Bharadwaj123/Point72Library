@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Point72Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE96872-C9C1-F980-9B90-32AB46EE4A70}|Point72Library\\Point72Library.csproj|c:\\users\\admin\\source\\repos\\point72library\\point72library\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE96872-C9C1-F980-9B90-32AB46EE4A70}|Point72Library\\Point72Library.csproj|solutionrelative:point72library\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE96872-C9C1-F980-9B90-32AB46EE4A70}|Point72Library\\Point72Library.csproj|c:\\users\\admin\\source\\repos\\point72library\\point72library\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE96872-C9C1-F980-9B90-32AB46EE4A70}|Point72Library\\Point72Library.csproj|solutionrelative:point72library\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE96872-C9C1-F980-9B90-32AB46EE4A70}|Point72Library\\Point72Library.csproj|c:\\users\\admin\\source\\repos\\point72library\\point72library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE96872-C9C1-F980-9B90-32AB46EE4A70}|Point72Library\\Point72Library.csproj|solutionrelative:point72library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE96872-C9C1-F980-9B90-32AB46EE4A70}|Point72Library\\Point72Library.csproj|c:\\users\\admin\\source\\repos\\point72library\\point72library\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE96872-C9C1-F980-9B90-32AB46EE4A70}|Point72Library\\Point72Library.csproj|solutionrelative:point72library\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE96872-C9C1-F980-9B90-32AB46EE4A70}|Point72Library\\Point72Library.csproj|c:\\users\\admin\\source\\repos\\point72library\\point72library\\controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE96872-C9C1-F980-9B90-32AB46EE4A70}|Point72Library\\Point72Library.csproj|solutionrelative:point72library\\controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE96872-C9C1-F980-9B90-32AB46EE4A70}|Point72Library\\Point72Library.csproj|c:\\users\\admin\\source\\repos\\point72library\\point72library\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE96872-C9C1-F980-9B90-32AB46EE4A70}|Point72Library\\Point72Library.csproj|solutionrelative:point72library\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE96872-C9C1-F980-9B90-32AB46EE4A70}|Point72Library\\Point72Library.csproj|c:\\users\\admin\\source\\repos\\point72library\\point72library\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE96872-C9C1-F980-9B90-32AB46EE4A70}|Point72Library\\Point72Library.csproj|solutionrelative:point72library\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE96872-C9C1-F980-9B90-32AB46EE4A70}|Point72Library\\Point72Library.csproj|c:\\users\\admin\\source\\repos\\point72library\\point72library\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE96872-C9C1-F980-9B90-32AB46EE4A70}|Point72Library\\Point72Library.csproj|solutionrelative:point72library\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE96872-C9C1-F980-9B90-32AB46EE4A70}|Point72Library\\Point72Library.csproj|c:\\users\\admin\\source\\repos\\point72library\\point72library\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDE96872-C9C1-F980-9B90-32AB46EE4A70}|Point72Library\\Point72Library.csproj|solutionrelative:point72library\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoansController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Point72Library\\Point72Library\\Controllers\\LoansController.cs",
+              "RelativeDocumentMoniker": "Point72Library\\Controllers\\LoansController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Point72Library\\Point72Library\\Controllers\\LoansController.cs",
+              "RelativeToolTip": "Point72Library\\Controllers\\LoansController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T14:15:41.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Point72Library\\Point72Library\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Point72Library\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Point72Library\\Point72Library\\Models\\Client.cs",
+              "RelativeToolTip": "Point72Library\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T14:07:19.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Point72Library\\Point72Library\\Data\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "Point72Library\\Data\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Point72Library\\Point72Library\\Data\\LibraryContext.cs",
+              "RelativeToolTip": "Point72Library\\Data\\LibraryContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T13:22:50.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Point72Library\\Point72Library\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Point72Library\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Point72Library\\Point72Library\\Models\\Book.cs",
+              "RelativeToolTip": "Point72Library\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T12:42:54.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Point72Library\\Point72Library\\Program.cs",
+              "RelativeDocumentMoniker": "Point72Library\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Point72Library\\Point72Library\\Program.cs",
+              "RelativeToolTip": "Point72Library\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T12:18:05.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Point72Library\\Point72Library\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Point72Library\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Point72Library\\Point72Library\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Point72Library\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswC0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T12:44:41.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Point72Library\\Point72Library\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "Point72Library\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Point72Library\\Point72Library\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "Point72Library\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T14:09:35.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Point72Library\\Point72Library\\Models\\Loan.cs",
+              "RelativeDocumentMoniker": "Point72Library\\Models\\Loan.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Point72Library\\Point72Library\\Models\\Loan.cs",
+              "RelativeToolTip": "Point72Library\\Models\\Loan.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T14:14:30.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Point72Library\\Point72Library\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Point72Library\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Point72Library\\Point72Library\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Point72Library\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-11T12:26:16.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
